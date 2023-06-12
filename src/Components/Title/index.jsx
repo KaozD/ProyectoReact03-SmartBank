@@ -11,7 +11,7 @@ const Title = styled.h1`
 
 export default Title;
 
-/*
+/*Declarando una Variable tipo SC exportable
   Al importar la paqueteria de Styled Components podremos a una variable determinada
   darle las funciones de un archivo CSS, y asi reemplazar el uso de etiquetas con su
   respectiva clase, por un solo elemento que funja esa funcion.

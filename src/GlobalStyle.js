@@ -13,7 +13,7 @@ const GlobalStyle = createGlobalStyle`
 
 export default GlobalStyle
 
-/*
+/*Declaracion de Estilos Globales e Implementacion
 Podemos generar un archivo global de estilos a la hora de usar Styled Components.
 Esto con el fin de tener un estilo global en todo el proyecto dentro de React
 

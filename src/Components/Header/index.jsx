@@ -5,7 +5,7 @@ import { colorPrimario } from "../UI/variables";
 
 console.log(colorPrimario);
 
-/*
+/*Declarando una Propiedad de SC en una Variable
 Al declarar una variable, con letra inicial en mayus, y a esta le asignamos su valor styled.etiqueta, 
 transformamos esta variable en una etiqueta con dicha funcion, el la cual le pondremos
 los estilos con las ` ` que simularan un archivo css dentro de Javascript
@@ -51,8 +51,10 @@ const BtnHeader = styled.a`
   background: ${ ( props ) => props.primary ? "transparent" : "white" };//Version sin destructurar
 `;
 
-/*Al usar props en los styled nos facilitara la vida al momento de programar ya que podremos 
-manejar de moejor forma determinados estilos */
+/*Empleo de Props para mejorar manejo de estilos
+Al usar props en los styled nos facilitara la vida al momento de programar ya que podremos 
+manejar de mejor forma determinados estilos 
+*/
 
 const Header = () => {
   return (

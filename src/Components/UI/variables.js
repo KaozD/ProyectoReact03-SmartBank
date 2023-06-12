@@ -2,7 +2,7 @@ export const colorPrimario = "#41D3BE";
 export const fondoClaro = "#F1F1F1 ";
 export const textoFondoClaro = "grey";
 
-/*
+/* Declaracion de Variables Globales y su importacion
 
 Podemos declarar un archivo de variables por ejemplo
 de color que podremos ir llamando con forme los necesitemos
