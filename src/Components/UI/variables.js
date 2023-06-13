@@ -1,6 +1,14 @@
 export const colorPrimario = "#41D3BE";
+
 export const fondoClaro = "#F1F1F1 ";
 export const textoFondoClaro = "grey";
+export const contenidoClaro = "white";
+
+export const fondoObscuro = "#363537 ";
+export const textoFondoObscuro = "#FAFAFA";
+export const contenidoObscuro = "#5C5B5E";
+
+
 
 /* Declaracion de Variables Globales y su importacion
 
