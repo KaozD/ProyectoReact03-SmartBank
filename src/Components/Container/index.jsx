@@ -2,6 +2,7 @@ import React from "react";
 import styled from "styled-components";
 import Title from "../Title";
 import Account from "../Account";
+import Lista from "../List";
 
 /*Declarando una Propiedad de SC en una Variable
 Al declarar una variable, con letra inicial en mayus, y a esta le asignamos su valor styled.etiqueta, 
@@ -49,6 +50,7 @@ const Container = () => {
       <Title>Smart Bank</Title>
       <StyleContent>
         <Account />
+        <Lista />
       </StyleContent>
     </StyleContainer>
   );

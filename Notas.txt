@@ -1,0 +1,3 @@
+Todo lo realizado de las clases 1 a la 3 ha sido tomando en base un archivo de estilo CSS ya existente.
+
+Todo lo que venga despues de eso sera sin emplear dicho archivo
